@@ -8,3 +8,10 @@ num2 = 5
 sum = num1 + num2
 print("The sum of", num1, "and", num2, "is:", sum)
 numbers = [i for i in range(10)]
+In Python, numbers are represented in various forms:
+
+Integers (int): These are whole numbers without any decimal point. For example: 5, -10, 1000.
+
+Floating-point numbers (float): These are numbers with a decimal point or in exponential form. For example: 3.14, 2.71828, 1.0e-5.
+
+Complex numbers: These are numbers with a real and imaginary part expressed as a + bj, where a is the real part and b is the imaginary part. For example: 3 + 4j.
