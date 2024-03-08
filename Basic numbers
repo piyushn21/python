@@ -25,3 +25,7 @@ Complex numbers: These are numbers with a real and imaginary part expressed as a
 # Addition
 result = 5 + 3.2
 print(result)  # Output: 8.2
+Complex numbers: These are numbers with a real and imaginary part expressed as a + bj, where a is the real part and b is the imaginary part. For example: 3 + 4j.
+# Addition
+result = 5 + 3.2
+print(result)  # Output: 8.2
